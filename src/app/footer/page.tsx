@@ -3,6 +3,7 @@ import React from 'react'
 
 import { FaFacebookF, FaTwitter, FaInstagramSquare } from "react-icons/fa";
 
+
 const Footer = () => {
   return (
     <footer className='bg-[#14274A] flex-shrink-0 text-white py-8'>
